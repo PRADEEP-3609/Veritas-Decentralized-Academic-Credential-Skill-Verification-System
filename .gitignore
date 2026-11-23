@@ -1,0 +1,11 @@
+node_modules/
+artifacts/
+cache/
+typechain-types/
+dist/
+dist-web/
+coverage/
+.env
+*.log
+web/public/sample-credentials.json
+~$*
