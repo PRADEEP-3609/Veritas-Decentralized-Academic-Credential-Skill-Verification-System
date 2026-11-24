@@ -6,6 +6,8 @@ dist/
 dist-web/
 coverage/
 .env
+.env*.local
+.vercel/
 *.log
 web/public/sample-credentials.json
 ~$*
